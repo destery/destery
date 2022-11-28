@@ -1,5 +1,5 @@
 ### Hi there 👋
-    [![Header](https://github.com/destery/destery/blob/main/images/desterybg.png)](https:github.com/destery)
+    [![Header](https://github.com/destery/destery/blob/main/images/desterybg.png)](https//:github.com/destery)
 <!--
 **destery/destery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
