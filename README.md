@@ -4,7 +4,7 @@
 ##                                    <center><i>Hey everyone, I'm Eldar Zeushev, AKA Destery</i>:raised_hands:</center>
 
 
-[![Header](https://github.com/destery/destery/blob/main/images/desteryHeaderImage.png)](https://github.com/destery)
+[![Header](https://github.com/destery/destery/blob/main/images/desterybg2.jpg)](https://github.com/destery)
 
 
 :raising_hand: I'm Frontend developer.
